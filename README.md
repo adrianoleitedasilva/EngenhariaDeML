@@ -49,3 +49,77 @@ Abaixo está um resumo claro, direto e completo:
 - Com Data Scientists para transformar experimentos em produtos reais.
 - Com DevOps/SRE para garantir estabilidade.
 - Com Produto/Negócio para entender requisitos e métricas de sucesso.
+
+# Ementa do Curso
+
+### Módulo 00
+
+- Código Fonte
+- Arquivo CSV - Diagnostic Medical
+
+### Módulo 01
+
+- Apresentação
+- O Caminho que o Engenheiro de ML deve seguir
+- Exemplo Prático
+- Framework
+- MD e DL
+
+### Módulo 02
+
+- Preparação do Ambiente
+- Fase 01 - Coleta de Dados
+- Vetorização
+- Vetorização II
+- Vetorização III
+- Label
+- Nova etapa: divisão dos dados
+
+### Módulo 03
+
+- Prática
+- Testando o Modelo
+- Hiperparâmetros
+
+### Módulo 04
+
+- Salvar o modelo
+- Salvar o modelo - vetorizador(parte 01)
+- Salvar o modelo XGBoost
+- Fast API
+- Fast API Router
+- Executar Diagnóstico
+- Executar Service
+- Testando o diagnóstico simples
+- Encoder Final
+- Próximo Passo
+
+# ML x DL
+
+### Deep Learning
+
+- Framework
+- TensorFlow e PyTorch:
+  - Redes Neurais
+  - CNN
+  - etc..
+  - Transformers
+
+### ML
+
+- Framework para aplicar algoritmos
+  - Sklearn
+  - (Regressão, SVM, Random Forest).
+
+### Algoritmo de ML
+
+- Regressão Linear
+- Random Forest
+- SVM
+- XGBoost
+
+### Técnicas
+
+- Regressao
+- Classificação
+- Agrupamento
