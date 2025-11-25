@@ -123,3 +123,5 @@ Abaixo está um resumo claro, direto e completo:
 - Regressao
 - Classificação
 - Agrupamento
+
+![alt text](/images/image.png)

@@ -2,8 +2,9 @@
 import pandas as pd
 
 # ToDos
-# 1 - Colocar os dados em um formato de leitura para Vetorização(Pandas)
-# 2 - Criar uma função para que esses dados possam ser invocados
+# 1 -> Colocar os dados em um formato de leitura para Vetorização(Pandas)
+# 2 -> Criar uma função para que esses dados possam ser invocados
+# 3 -> Pegar os dados e Vetorizar
 
 # Dataset completo com dados limpos
 dados = [
